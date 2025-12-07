@@ -4,6 +4,6 @@ The Stock Performance Dashboard aims to provide a comprehensive visualization an
 
 ## Step 1: Go to the Data extraction jupyter notebook file
   1. Try to completed all the steps carefully in the file.
-  2. After that, your dataset will be ready.
+  2. After that, your dataset will be ready. Also, all the problem statement addressed there.
 
 Thank you & Visit Again
